@@ -1,0 +1,10 @@
+h1 {
+    color:blue;
+    font-weight:bold;
+}
+
+.cow {
+    width: 98%;
+    height: 100%;
+    border: 5px solid #555;
+}
